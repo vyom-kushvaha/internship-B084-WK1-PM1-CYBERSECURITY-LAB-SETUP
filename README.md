@@ -27,13 +27,13 @@ The goal was to configure the virtual machine, establish network connectivity, a
 ## Screenshots
 
 ### 1. Network Connectivity
-![Connectivity Test](screenshots/01-connectivity.png)
+![Connectivity Test](01-connectivity.png)
 
 ### 2. VirtualBox Network Adapter
-![Network Adapter](screenshots/02-network-adapter.png)
+![Network Adapter](02-network-adapter.png)
 
 ### 3. NAT Network Configuration
-![NAT Network](screenshots/03-nat-network.png)
+![NAT Network](03-nat-network.png)
 
 ## Key Learnings
 This task helped me understand virtual networking, Linux network troubleshooting, and the importance of maintaining a reliable lab environment for cybersecurity practice.
